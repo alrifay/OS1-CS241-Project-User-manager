@@ -1,0 +1,43 @@
+<html><pre>
+Name :
+
+User Manager
+________________________________________________________________________________________
+Synopsis :
+
+java -jar User_Manager.jar
+java -jar User_Manager.jar [OPTION]
+________________________________________________________________________________________
+Options :
+-h | --help     Print help and exit.
+-g | --gui      Open graphical user interface.
+otherwise, open in console mood
+________________________________________________________________________________________
+Description :
+
+ADD/DELETE  users and groups  , CHANGE user  and Account INFORMATION  ,
+ASSIGN  SPECIFIC USERS TO SPECIFIC GROUPS .
+
+______________________________________________________________________________________
+Author :
+
+Written by Mohamed A.Al-rifai, Ahmed Ayman, Ahmed Salah , Mahmoud S-Marwad
+ , and Mahmoud Gamal .
+_________________________________________________________________________________________
+Reporting Bugs :
+
+Report User Manager bugs to fcih.mohammed@gamil.com
+________________________________________________________________________________________
+Copyright :
+
+Copyright ? 2016 Free Software Foundation, Inc. License GPLv3+:
+ GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>.
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+_________________________________________________________________________________________
+
+See Also :
+
+man UserManager
+_________________________________________________________________________________________
+</pre></html>

@@ -1,0 +1,90 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <style>
+        html {
+            height: 210px;
+            width: 410px;
+            /*background-color: green*/
+        }
+
+        body {
+            height: 200px;
+            width: 100%;
+        }
+
+        h1 {
+            width: 100%;
+            text-align: center;
+            color: white;
+            background-color: rgb(52, 52, 52);
+            padding: 3px;
+        }
+
+        table {
+            width: 75%;
+            text-align: center;
+            border-spacing: 0;
+            border-collapse: collapse;
+        }
+
+        th {
+            border: 2px solid black;
+            border-collapse: collapse;
+            background-color: black;
+            color: white;
+            font-size: 14px;
+        }
+
+        td {
+            border: 2px solid black;
+            border-top: none;
+            text-align: center;
+            border-collapse: collapse;
+            font: 12px;
+        }
+
+        caption {
+            font-size: 15px
+        }
+        #tname{
+            text-align: left;
+            border-right: none;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>User Manager</h1>
+    <br>
+    <table>
+        <caption>Team Members</caption>
+        <tr>
+            <th>Name</th>
+            <th>ID</th>
+        </tr>
+        <tr>
+            <td id="tname">Mohammed A. Al-Rifai</td>
+            <td>20140343</td>
+        </tr>
+        <tr>
+            <td id="tname">Ahmed Ayman</td>
+            <td>20140014</td>
+        </tr>
+        <tr>
+            <td id="tname">Ahmed Salah</td>
+            <td>20140030</td>
+        </tr>
+        <tr>
+            <td id="tname">Mahmoud Gamal</td>
+            <td>20140375</td>
+        </tr>
+        <tr>
+            <td id="tname">Mahmoud S. Marwad</td>
+            <td>20140381</td>
+        </tr>
+    </table>
+</body>
+
+</html>
